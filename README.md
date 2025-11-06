@@ -20,7 +20,7 @@ APK can be found here: https://mys-lang.org
     <img src="https://github.com/eerimoq/Moblink/raw/main/docs/screenshot.jpg" width="25%" >
 </p>
 
-Discord: https://discord.gg/nt3UwHqbMM
+Discord: https://discord.gg/kh3KMng4JV
 
 Github: https://github.com/eerimoq/Moblink
 
